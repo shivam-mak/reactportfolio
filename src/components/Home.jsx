@@ -31,7 +31,7 @@ const Home = () => {
             </div>
             <div>
             <img src={HeroImage} alt="my profile" className="rounded-2xl
-           mx-auto w-20 md:w-full py-40 px-40   opacity-40 "/>
+           mx-auto w-2/3 md:w-200  px-3 opacity-40 "/>
         </div>
         </div>
         <div id="Experience">
